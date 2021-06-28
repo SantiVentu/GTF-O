@@ -21,6 +21,7 @@ export default function ItemListContainer() {
                     watts: 35,
                     image: "img/01motherboards/amd/Asrock_A520M_ac_AM4_a6a81c25.jpg",
                     price: 70,
+                    stock:15,
                 },
                 {
                     id: "j7r1z",
@@ -29,6 +30,7 @@ export default function ItemListContainer() {
                     watts: 35,
                     image: "img/01motherboards/amd/MSI_B450M_PRO-M2_MAX.jpg",
                     price: 75,
+                    stock:15,
                 },
                 {
                     id: "8Seoc",
@@ -38,6 +40,7 @@ export default function ItemListContainer() {
                     image:
                         "img/01motherboards/amd/MSI_MPG_B550_Gaming_Carbon_Wifi_AM4_25ed9711.jpg",
                     price: 220,
+                    stock:15,
                 },
                 {
                     id: "rXjvG",
@@ -47,6 +50,7 @@ export default function ItemListContainer() {
                     image:
                         "img/01motherboards/intel/ASUS_PRIME_H310M-R_R2.0_1151_OEM_770f9b92.jpg",
                     price: 65,
+                    stock:15,
                 },
                 {
                     id: "fgRS2",
@@ -56,6 +60,7 @@ export default function ItemListContainer() {
                     image:
                         "img/01motherboards/intel/Gigabyte_B460M-DS3H_AC_WiFi_Socket_1200_10th_Gen.jpg",
                     price: 95,
+                    stock:15,
                 },
                 {
                     id: "1SqKV",
@@ -65,6 +70,7 @@ export default function ItemListContainer() {
                     image:
                         "img/01motherboards/intel/Gigabyte_Z490_Vision_G_Socket_1200_10th_Gen.jpg",
                     price: 240,
+                    stock:15,
                 },
                 {
                     id: "W82MC",
@@ -74,6 +80,7 @@ export default function ItemListContainer() {
                     image:
                         "img/02procesadores/amd/AMD_Ryzen_3_PRO_4350G_4.0GHz_Turbo___Wraith_Stealth_Cooler_OEM.jpg",
                     price: 220,
+                    stock:15,
                 },
                 {
                     id: "udzE8",
@@ -83,6 +90,7 @@ export default function ItemListContainer() {
                     image:
                         "img/02procesadores/amd/AMD_Ryzen_5_PRO_4650G_4.2GHz_Turbo___Wraith_Stealth_Cooler_OEM.jpg",
                     price: 240,
+                    stock:15,
                 },
                 {
                     id: "Cipj9",
@@ -92,6 +100,7 @@ export default function ItemListContainer() {
                     image:
                         "img/02procesadores/amd/AMD_RYZEN_7_3800X_4.5GHz_AM4_Wraith_Prism_RGB_Led_Cooler.jpg",
                     price: 390,
+                    stock:15,
                 },
                 {
                     id: "beCRK",
@@ -101,6 +110,7 @@ export default function ItemListContainer() {
                     image:
                         "img/02procesadores/intel/Intel_Core_i3_10100_4.3GHz__Turbo_10th_Gen_Socket_1200.jpg",
                     price: 120,
+                    stock:15,
                 },
                 {
                     id: "L9apC",
@@ -110,6 +120,7 @@ export default function ItemListContainer() {
                     image:
                         "img/02procesadores/intel/Intel_Core_i5_10400F_4.3GHz_Turbo_1200_Comet_Lake.jpg",
                     price: 150,
+                    stock:15,
                 },
                 {
                     id: "586Up",
@@ -119,6 +130,7 @@ export default function ItemListContainer() {
                     image:
                         "img/02procesadores/intel/i7_10700F_4.8GHz_Turbo_Socket_1200_Comet_Lake.jpg",
                     price: 330,
+                    stock:15,
                 },
                 {
                     id: "5tQwM",
@@ -126,6 +138,7 @@ export default function ItemListContainer() {
                     watts: 3,
                     image: "img/03cooler/AURAFLOW__X_120_Intel_1151___AMD_AM4.jpg",
                     price: 80,
+                    stock:15,
                 },
                 {
                     id: "C05Uj",
@@ -133,6 +146,7 @@ export default function ItemListContainer() {
                     watts: 3,
                     image: "img/03cooler/Cooler_CPU_ID-Cooling_SE-903-SD.jpg",
                     price: 40,
+                    stock:15,
                 },
                 {
                     id: "wScFp",
@@ -140,6 +154,7 @@ export default function ItemListContainer() {
                     watts: 3,
                     image: "img/03cooler/CPU_ID-Cooling_PINKFLOW_240_ARGB.jpg",
                     price: 170,
+                    stock:15,
                 },
                 {
                     id: "44KKM",
@@ -148,6 +163,7 @@ export default function ItemListContainer() {
                     watts: 2,
                     image: "img/04ram/GeiL_DDR4_8GB_3000MHz_EVO_X_II_RGB.jpg",
                     price: 40,
+                    stock:15,
                 },
                 {
                     id: "kJXLr",
@@ -156,6 +172,7 @@ export default function ItemListContainer() {
                     watts: 2,
                     image: "img/04ram/OLOy_DDR4_8GB_Warhawk_Black_RGB_3200MHz_CL16.jpg",
                     price: 50,
+                    stock:15,
                 },
                 {
                     id: "A3iOJ",
@@ -164,6 +181,7 @@ export default function ItemListContainer() {
                     watts: 1.2,
                     image: "img/04ram/Team_DDR4_8GB_2666MHz_T-Force_Zeus.jpg",
                     price: 30,
+                    stock:15,
                 },
                 {
                     id: "3zfqA",
@@ -173,6 +191,7 @@ export default function ItemListContainer() {
                     image:
                         "img/05gpu/EVGA_GeForce_RTX_3090_24GB_GDDR6X_XC3_ULTRA_ICX3_ARGB.jpg",
                     price: 1500,
+                    stock:15,
                 },
                 {
                     id: "STOPd",
@@ -181,6 +200,7 @@ export default function ItemListContainer() {
                     watts: 220,
                     image: "img/05gpu/GeForce_RTX_3070_8GB_GDDR6_XC3_ULTRA.jpg",
                     price: 370,
+                    stock:15,
                 },
                 {
                     id: "k74dc",
@@ -189,6 +209,7 @@ export default function ItemListContainer() {
                     watts: 130,
                     image: "img/05gpu/GTX_1660_Ti_6GB_GDDR6_Ventus_XS_OC.jpg",
                     price: 190,
+                    stock:15,
                 },
                 {
                     id: "ejGQF",
@@ -197,6 +218,7 @@ export default function ItemListContainer() {
                     watts: 150,
                     image: "img/05gpu/Radeon_RX_5600_XT_6GB_GDDR6_14Gbps_THICC_III_Pro.jpg",
                     price: 280,
+                    stock:15,
                 },
                 {
                     id: "8QoyV",
@@ -205,6 +227,7 @@ export default function ItemListContainer() {
                     watts: 8,
                     image: "img/06ssd/Seagate_2TB_Barracuda_256MB_7.2K_RPM.jpg",
                     price: 55,
+                    stock:15,
                 },
                 {
                     id: "S6GMy",
@@ -213,6 +236,7 @@ export default function ItemListContainer() {
                     watts: 2,
                     image: "img/06ssd/SSD_Adata_120GB_SU650SS_520MB.jpg",
                     price: 70,
+                    stock:15,
                 },
                 {
                     id: "voidk",
@@ -221,6 +245,7 @@ export default function ItemListContainer() {
                     watts: 2,
                     image: "img/06ssd/SSD_Adata_960GB_Ultimate_SU630_520MB.jpg",
                     price: 40,
+                    stock:15,
                 },
                 {
                     id: "ga4iw",
@@ -229,6 +254,7 @@ export default function ItemListContainer() {
                     watts: 0,
                     image: "img/07mouse/Glorious_Model_D__Glossy_White.jpg",
                     price: 70,
+                    stock:15,
                 },
                 {
                     id: "bmSF5",
@@ -237,6 +263,7 @@ export default function ItemListContainer() {
                     watts: 0,
                     image: "img/07mouse/Logitech_G600_MMO_Gaming_Black_8200dpi.jpg",
                     price: 40,
+                    stock:15,
                 },
                 {
                     id: "FhUL0",
@@ -245,6 +272,7 @@ export default function ItemListContainer() {
                     watts: 4,
                     image: "img/08teclados/Logitech_K600_Touch_Wireless_Smart_TV_HTPC.jpg",
                     price: 40,
+                    stock:15,
                 },
                 {
                     id: "vEBde",
@@ -253,6 +281,7 @@ export default function ItemListContainer() {
                     watts: 5,
                     image: "img/08teclados/Marvo_Scorpion_KG916_RGB_Rainbow_Switch_Blue.jpg",
                     price: 30,
+                    stock:15,
                 },
                 {
                     id: "pkWFX",
@@ -262,6 +291,7 @@ export default function ItemListContainer() {
                     image:
                         "img/08teclados/Nisuta_NSKBGZ61W_White_RGB_Gamer_61_Teclas_Switch_Outemu_Brown.jpg",
                     price: 50,
+                    stock:15,
                 },
                 {
                     id: "IPz9T",
@@ -270,6 +300,7 @@ export default function ItemListContainer() {
                     watts: 0,
                     image: "img/09gabinete/Deepcool_MATREXX_55_MESH_4_Fans_e2000e72-med.jpg",
                     price: 60,
+                    stock:15,
                 },
                 {
                     id: "sPPjd",
@@ -278,6 +309,7 @@ export default function ItemListContainer() {
                     watts: 0,
                     image: "img/09gabinete/Gabinete_Cougar_GEMINI_X.jpg",
                     price: 700,
+                    stock:15,
                 },
                 {
                     id: "qfHnC",
@@ -286,6 +318,7 @@ export default function ItemListContainer() {
                     watts: 0,
                     image: "img/09gabinete/PURE_BASE_500DX_Black.jpg",
                     price: 100,
+                    stock:15,
                 },
                 {
                     id: "6wAh3",
@@ -294,6 +327,7 @@ export default function ItemListContainer() {
                     image:
                         "img/10monitores/LG_29__29WL500_IPS_Ultra_Wide_HDMI_2560x1080_HDR10.jpg",
                     price: 240,
+                    stock:15,
                 },
                 {
                     id: "JfNxt",
@@ -302,6 +336,7 @@ export default function ItemListContainer() {
                     image:
                         "img/10monitores/LG_34__UltraGear_34GL750_Ultra_Wide_Curvo_144Hz_1ms.jpg",
                     price: 330,
+                    stock:15,
                 },
                 {
                     id: "9xJrD",
@@ -309,6 +344,7 @@ export default function ItemListContainer() {
                     watts: 20,
                     image: "img/10monitores/Monitor_LG_22__22MN430H-B_HDMI_Full_HD_IPS.jpg",
                     price: 220,
+                    stock:15,
                 },
                 {
                     id: "X8n7M",
@@ -316,6 +352,7 @@ export default function ItemListContainer() {
                     watts: 25,
                     image: "img/10monitores/Monitor_Samsung_24___Curvo_F390.jpg",
                     price: 190,
+                    stock:15,
                 },
                 {
                     id: "vws9e",
@@ -323,6 +360,7 @@ export default function ItemListContainer() {
                     watts: 0,
                     image: "img/11fuentes/Gigabyte_450W_80_Plus_Bronce.jpg",
                     price: 40,
+                    stock:15,
                 },
                 {
                     id: "PkYav",
@@ -330,6 +368,7 @@ export default function ItemListContainer() {
                     watts: 0,
                     image: "img/11fuentes/Gamemax_500W_80_Plus_Bronze_VP-500.jpg",
                     price: 60,
+                    stock:15,
                 },
                 {
                     id: "xKcNI",
@@ -337,6 +376,7 @@ export default function ItemListContainer() {
                     watts: 0,
                     image: "img/11fuentes/Redragon_600W_80__Bronze_GC-PS002.jpg",
                     price: 70,
+                    stock:15,
                 },
                 {
                     id: "OU8J7",
@@ -344,6 +384,7 @@ export default function ItemListContainer() {
                     watts: 0,
                     image: "img/11fuentes/Seasonic_850W_Focus_Gold_GX-850_80_Plus_Gold.jpg",
                     price: 150,
+                    stock:15,
                 },
             ];
             setProductos(baseDeDatos)

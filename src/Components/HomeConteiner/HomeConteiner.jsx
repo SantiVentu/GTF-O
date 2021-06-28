@@ -5,7 +5,7 @@ import styled from 'styled-components'
 export default function HomeConteiner() {
     return (
         <Conteiner>
-            <h1>este es el home</h1>
+            <h1>Este es el home</h1>
         </Conteiner>
     )
 }
